@@ -1,2 +1,14 @@
 # FSCAN
-A simple dork scanner tool written in python, pretty fast.
+FSCAN V1.0
+
+Very simple python script that will search your query in google and give you 30 results, pretty fast.
+
+Only python module you need is 'googlesearch'
+
+How To Install Module: pip3 install googlesearch
+
+------------------------------------------------------------------------
+
+DISCLAMIER:EVERYTHING YOU DONE WITH THIS TOOL IS AT YOUR OWN RESPONSBOLITY. USE AT YOUR OWN RISK.
+
+------------------------------------------------------------------------
