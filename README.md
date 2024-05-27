@@ -9,6 +9,6 @@ How To Install Module: pip3 install googlesearch
 
 ------------------------------------------------------------------------
 
-DISCLAMIER:EVERYTHING YOU DONE WITH THIS TOOL IS AT YOUR OWN RESPONSBOLITY. USE AT YOUR OWN RISK.
+DISCLAIMER: EVERYTHING YOU DONE WITH THIS TOOL IS AT YOUR OWN RESPONSBOLITY. USE AT YOUR OWN RISK.
 
 ------------------------------------------------------------------------
